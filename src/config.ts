@@ -98,5 +98,23 @@ export const siteConfig = {
         "Postgrado Iberoamericano en RSE",
       ],
     },
+    {
+      school: "Cámara Peruana de Seguridad y Salud en el Trabajo",
+      degree: "Diplomado en Legislación Laboral y SST",
+      dateRange: "2021",
+      achievements: [],
+    },
+    {
+      school: "ENACE",
+      degree: "Diplomado en Derecho Contencioso Administrativo",
+      dateRange: "2020",
+      achievements: [],
+    },
+    {
+      school: "UNT - Escuela de Posgrado",
+      degree: "Diplomado en Sistema Tributario Nacional",
+      dateRange: "2013",
+      achievements: [],
+    },
   ],
 };
